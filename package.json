@@ -1,11 +1,11 @@
 {
-  "name": "liveterm",
+  "name": "Nerdcore",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
-    "name": "Vincent Wu",
+    "name": "Dirtynerdy",
     "url": "https://cveinnt.com",
-    "email": "contact@wensenwu.com"
+    "email": "nerdcore508@gmail.com"
   },
   "scripts": {
     "dev": "next dev",
