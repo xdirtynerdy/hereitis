@@ -30,7 +30,7 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I am ${config.name}. 
+  return `Hi, I am  ${config.name}. 
 Welcome, You must be lost!
 More about me:
 'sumfetch' - short summary.
